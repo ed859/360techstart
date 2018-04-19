@@ -13,6 +13,6 @@ To accomplish this we need to:
 8. You can view your finished work by typing  (your gethub username) + .gethub.com + (/your project name) into any browser!
 
 
-Here is another test to see if we can do links to create worlds!
+#Here is another test to see if we can do links to create worlds!
 
 <script src='//vizor.io/static/scripts/vizor-360-embed.js' data-vizorurl='//vizor.io/embed/ed859/linktest'></script>
