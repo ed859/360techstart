@@ -1,5 +1,5 @@
 # 360techstart
-This is a demonstration of how to create the repositry and view the final project on the web. 
+This is a demonstration of how to create the repository and view the final project on the web. 
 <script src='//vizor.io/static/scripts/vizor-360-embed.js' data-vizorurl='//vizor.io/embed/ed859/360techstart'></script>
 
 To accomplish this we need to:
