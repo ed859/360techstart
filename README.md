@@ -9,6 +9,7 @@ To accomplish this we need to:
 4. Get the Embed Code From Vizor
 5. Create a Github Account and create a new project
 6. Place the embed code into the README.md file (or create an index.html)
+7. Enable github pages through the settings for the master branch
 7. You can view your finished work by typing  (your gethub username) + .gethub.com + (/your project name) into any browser!
 
 
